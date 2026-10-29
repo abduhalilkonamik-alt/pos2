@@ -1,0 +1,120 @@
+/**{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.container{
+    margin:0 auto;
+    max-width: 100%;
+    width: 90%;
+}*/
+
+.wrapper{
+    margin-top: 126px;  
+
+}
+
+.box {
+    width: 879px;
+    margin:0 auto;
+    margin-top: 126px;
+    height: 127px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    box-shadow: 7px 12px 14px 0px #000000C2;
+
+
+}
+
+
+.one{
+    color:white;
+    font-size: 48px; 
+    text-shadow: 7px 5px 6px  #FFFFFFF7;
+
+}
+
+.instagram{
+    width:300px;
+    height:300px;
+    
+     
+      
+}
+
+
+
+.telegram{
+     width:307px;
+     height:307px;
+     
+}
+
+.tik-tok{
+    width: 326px;
+    height:326px;
+    position: relative;
+}
+
+.fon{
+    margin-top:106px;
+    display: flex;
+    gap:100px;
+    justify-content:center;
+}
+
+.p1{
+    width:104px;
+    height: 104px;
+    font-size: 48px;
+    margin:0;
+    color:white;
+    position: absolute;
+    padding: 0;
+    border-radius:50px;
+    align-items: center;
+    display: flex;
+    left: 489px;
+    bottom:336px;
+    justify-content: center;
+    background-color: red;
+}
+
+.p2{
+    width: 141px;
+    height: 72px;
+    font-size: 48px;
+    margin:0;
+    padding:0;
+    color:white;
+    position: absolute;
+    border-radius: 50px;
+    align-items: center;
+    display: flex;
+    left:860px;
+    bottom:356px ;
+    justify-content: center;
+    background-color: red;
+
+}
+
+.p3{
+    width:104px;
+    height: 104px;
+    font-size: 48px;
+    margin:0;
+    color:white;
+    position: absolute;
+    padding: 0;
+    border-radius:50px;
+    align-items: center;
+    display: flex;
+    left: 209px;
+    bottom:239px;
+    justify-content: center;
+    background-color: red;
+}
